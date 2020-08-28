@@ -1,0 +1,177 @@
+<ExportFile>
+  <StructuredView Guid="{21af5390-2942-461a-bf89-951aaf6999f1}">
+<Single xml:space="preserve" Type="{3daac5e4-660e-42e4-9cea-3711b98bfb63}" Method="IArchivable">
+  <Null Name="Profile" />
+  <List2 Name="EntryList">
+    <Single Type="{6198ad31-4b98-445c-927f-3258a0e82fe3}" Method="IArchivable">
+      <Single Name="IsRoot" Type="bool">True</Single>
+      <Single Name="MetaObject" Type="{81297157-7ec9-45ce-845e-84cab2b88ade}" Method="IArchivable">
+        <Single Name="Guid" Type="System.Guid">b5430773-3042-47d6-a6d3-28650a6ce532</Single>
+        <Single Name="ParentGuid" Type="System.Guid">00000000-0000-0000-0000-000000000000</Single>
+        <Single Name="Name" Type="string">GlobalTextList</Single>
+        <Dictionary Type="{2c41fa04-1834-41c1-816e-303c7aa2c05b}" Name="Properties" />
+        <Single Name="TypeGuid" Type="System.Guid">63784cbb-9ba0-45e6-9d69-babf3f040511</Single>
+        <Array Name="EmbeddedTypeGuids" Type="System.Guid" />
+        <Single Name="Timestamp" Type="long">637289573684025561</Single>
+      </Single>
+      <Single Name="Object" Type="{63784cbb-9ba0-45e6-9d69-babf3f040511}" Method="IArchivable">
+        <List Name="TextList" Type="System.Collections.ArrayList">
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">715</Single>
+            <Single Name="TextDefault" Type="string">%s</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">949</Single>
+            <Single Name="TextDefault" Type="string">Abbruch</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">566</Single>
+            <Single Name="TextDefault" Type="string">Admin</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">904</Single>
+            <Single Name="TextDefault" Type="string">B1</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">212</Single>
+            <Single Name="TextDefault" Type="string">B2</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">721</Single>
+            <Single Name="TextDefault" Type="string">H1</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">422</Single>
+            <Single Name="TextDefault" Type="string">H2</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">785</Single>
+            <Single Name="TextDefault" Type="string">H3</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">933</Single>
+            <Single Name="TextDefault" Type="string">H4</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">783</Single>
+            <Single Name="TextDefault" Type="string">H5</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">739</Single>
+            <Single Name="TextDefault" Type="string">H6</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">509</Single>
+            <Single Name="TextDefault" Type="string">H7</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">69</Single>
+            <Single Name="TextDefault" Type="string">H9</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">839</Single>
+            <Single Name="TextDefault" Type="string">Kaffee</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">45</Single>
+            <Single Name="TextDefault" Type="string">Milch</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">327</Single>
+            <Single Name="TextDefault" Type="string">Münzeinwurf</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">876</Single>
+            <Single Name="TextDefault" Type="string">Normal</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">315</Single>
+            <Single Name="TextDefault" Type="string">S1</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">235</Single>
+            <Single Name="TextDefault" Type="string">S2</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">706</Single>
+            <Single Name="TextDefault" Type="string">S3</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">498</Single>
+            <Single Name="TextDefault" Type="string">S4</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">756</Single>
+            <Single Name="TextDefault" Type="string">S5</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">610</Single>
+            <Single Name="TextDefault" Type="string">S6</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">172</Single>
+            <Single Name="TextDefault" Type="string">S7</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">996</Single>
+            <Single Name="TextDefault" Type="string">S9</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">520</Single>
+            <Single Name="TextDefault" Type="string">Störung</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">234</Single>
+            <Single Name="TextDefault" Type="string">Tee</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">851</Single>
+            <Single Name="TextDefault" Type="string">Test</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+          <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+            <Single Name="TextID" Type="string">479</Single>
+            <Single Name="TextDefault" Type="string">Zucker</Single>
+            <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+          </Single>
+        </List>
+        <List Name="Languages" Type="System.Collections.ArrayList" />
+        <Single Name="GuidInit" Type="System.Guid">f0ac7cd9-8d97-4e35-9a95-c28b6cae76ff</Single>
+        <Single Name="GuidReInit" Type="System.Guid">df955b83-627b-403f-9fff-342b5da11313</Single>
+        <Single Name="GuidExitX" Type="System.Guid">c047ef94-2688-4e7d-a580-fac9414780f0</Single>
+      </Single>
+      <Single Name="ParentSVNodeGuid" Type="System.Guid">00000000-0000-0000-0000-000000000000</Single>
+      <Array Name="Path" Type="string" />
+      <Single Name="Index" Type="int">-1</Single>
+    </Single>
+  </List2>
+  <Single Name="ProfileName" Type="string">CODESYS V3.5 SP16</Single>
+</Single>  </StructuredView>
+</ExportFile>
